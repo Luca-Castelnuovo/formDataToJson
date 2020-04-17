@@ -1,0 +1,23 @@
+{
+  "name": "formdatatojson",
+  "version": "1.0.0",
+  "description": "A small module to convert an formData object to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luca-Castelnuovo/formDataToJson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luca-Castelnuovo/formDataToJson/issues"
+  },
+  "homepage": "https://github.com/Luca-Castelnuovo/formDataToJson#readme",
+  "keywords": [
+    "formData",
+    "JSON"
+  ],
+  "author": "Luca Castelnuovo <ltcastelnuovo@gmail.com>",
+  "license": "MIT"
+}
