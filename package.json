@@ -1,6 +1,6 @@
 {
   "name": "formdatatojson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small module to convert an formData object to JSON",
   "main": "index.js",
   "scripts": {
